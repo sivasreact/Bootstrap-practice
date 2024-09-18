@@ -1,2 +1,2 @@
 # Bootstrap-practice
-Live site URL - https://sivaraja83.github.io/Bootstrap-practice/
+Live site URL - https://sivasreact.github.io/Bootstrap-practice/
